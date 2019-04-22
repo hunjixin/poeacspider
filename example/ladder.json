@@ -1,0 +1,45 @@
+{
+  "total": 15000,
+  "cached_since": "2019-04-22T03:07:02+00:00",
+  "entries": [
+    {
+      "rank": 2,
+      "dead": false,
+      "online": false,
+      "character": {
+        "name": "TaylorSwiftVEVO",
+        "level": 100,
+        "class": "Scion",
+        "experience": 4250334444
+      },
+      "account": {
+        "name": "PeakingDuck",
+        "realm": "pc",
+        "challenges": {
+          "total": 0
+        },
+        "twitch": {
+          "name": "peakingduck"
+        }
+      }
+    },
+    {
+      "rank": 3,
+      "dead": false,
+      "online": false,
+      "character": {
+        "name": "Dear_Santa_UA",
+        "level": 100,
+        "class": "Occultist",
+        "experience": 4250334444
+      },
+      "account": {
+        "name": "Valerchik",
+        "realm": "pc",
+        "challenges": {
+          "total": 0
+        }
+      }
+    }
+  ]
+}
